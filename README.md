@@ -5,7 +5,7 @@ our first challenge with all the divs
 
 
 ## Users Story
-As a coding student I was given a task to pretend I was REAL coder.
+As a coding student I was given a task to pretend I was a REAL coder.
 At my pretend job, my client is a marketing agency with unreasonable standards like all the marketing agencies that I've worked for IRL.
 The following is my User Story and Acceptance Criteria for this project:
 
