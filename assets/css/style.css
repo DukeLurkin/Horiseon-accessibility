@@ -77,18 +77,6 @@ body {
 img {
     max-height: 200px;
  }
-/* .search-engine-optimization img {
-    max-height: 200px;
-}
-
-.online-reputation-management img {
-    max-height: 200px;
-}
-
-.social-media-marketing img {
-    max-height: 200px;
-} */
-
 
 
 .content h2 {
@@ -96,10 +84,6 @@ img {
     font-size: 36px; 
 }
 /* consolidated h2 content code ^ */
-
-
-
-
 
 a {
     color: #ffffff;
@@ -126,6 +110,7 @@ a {
     margin-left: 20px;
 
 }
+
 p {
     font-size: 16px;
 }
