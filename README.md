@@ -5,11 +5,16 @@ our first challenge with all the divs
 
 
 ## Users Story
+As a coding student I was given a task to pretend I was REAL coder.
+At my pretend job, my client is a marketing agency with unreasonable standards like all the marketing agencies that I've worked for IRL.
+The following is my User Story and Acceptance Criteria for this project:
+
+#### -Users Story-
 AS A marketing agency
 I WANT a codebase that follows accessibility standards
 SO THAT our own site is optimized for search engines
 
-## Acceptance Criteria
+#### -Acceptance Criteria-
 
 GIVEN a webpage meets accessibility standards
 WHEN I view the source code
@@ -24,13 +29,24 @@ WHEN I view the title element
 THEN I find a concise, descriptive title
 
 
+## What I actually did 
+* All div elements in HTML where changed to properly reflect their semantic properties.
+* CSS code was moved to better reflect the page layout.
+* CSS code was condensed to avoid redundancy.
+* Link was added to "search engine optimization" in header so it brings you to the SEO article.
+* alt tags added to all images in HTML.
+* I changed the title to the marketing company name.
+
+
+
+
 ## Installation
 
 N/A
 
 ## Usage
 
-You can use this site to see if I'm any good at coding
+You can use this site to see if I'm any good at coding.
 
 ## Credits
 
