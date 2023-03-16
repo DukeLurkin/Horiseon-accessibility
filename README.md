@@ -1,5 +1,5 @@
 # Horiseon-accessibility
-our first challenge with the <div>s
+our first challenge with all the divs
 
 
 
